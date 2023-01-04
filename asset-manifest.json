@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mleduca-lite/static/css/main.56877f80.css",
+    "main.js": "/mleduca-lite/static/js/main.4ba52446.js",
+    "static/js/787.b17e019a.chunk.js": "/mleduca-lite/static/js/787.b17e019a.chunk.js",
+    "index.html": "/mleduca-lite/index.html",
+    "main.56877f80.css.map": "/mleduca-lite/static/css/main.56877f80.css.map",
+    "main.4ba52446.js.map": "/mleduca-lite/static/js/main.4ba52446.js.map",
+    "787.b17e019a.chunk.js.map": "/mleduca-lite/static/js/787.b17e019a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56877f80.css",
+    "static/js/main.4ba52446.js"
+  ]
+}
